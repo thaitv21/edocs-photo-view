@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      "github:alwx/react-native-photo-view#e28f541",
+      "/Users/thanthai/edocs"
+    ]
+  ],
+  "_from": "github:alwx/react-native-photo-view#e28f541",
+  "_id": "react-native-photo-view@github:alwx/react-native-photo-view#e28f5416574cbfa07b2d4fa862c0048df56f7b02",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-photo-view",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:alwx/react-native-photo-view#e28f541",
+    "rawSpec": "github:alwx/react-native-photo-view#e28f541",
+    "saveSpec": "github:alwx/react-native-photo-view#e28f541",
+    "fetchSpec": null,
+    "gitCommittish": "e28f541"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:alwx/react-native-photo-view#e28f5416574cbfa07b2d4fa862c0048df56f7b02",
+  "_spec": "github:alwx/react-native-photo-view#e28f541",
+  "_where": "/Users/thanthai/edocs",
+  "author": {
+    "name": "Alexander Pantyukhov",
+    "email": "alwxndr@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/alwx/react-native-photo-view/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "description": "Displaying photos with pinch-to-zoom",
+  "homepage": "https://github.com/alwx/react-native-photo-view",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "gallery",
+    "lightbox",
+    "pinch",
+    "pinch-to-zoom",
+    "mobile"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-photo-view",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alwx/react-native-photo-view.git"
+  },
+  "version": "1.5.2"
+}
